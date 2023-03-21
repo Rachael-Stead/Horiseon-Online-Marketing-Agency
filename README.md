@@ -4,10 +4,10 @@
 This project was designed to show off our skills learned in week one of out bootcamp. The main task described as an on the job ticket to refractor
 an exsisting code for an online Marketing Agency website.
 My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
-* Can be found though search engines
+* Can be found though search engines with addition of new "title" in the head section
 * Webpage name is featured in the tab/toolbar in browsers
 * ability utlize the bookmark feature
-* Enhanced accessibility features including for mobile devices
+* Enhanced accessibility features for SEO by using "reset" and "veiwport" tags in the meta data
 * Use of alt text for images
 * cleaner CSS and HTML code templates
 
