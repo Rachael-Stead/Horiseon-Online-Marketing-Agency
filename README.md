@@ -15,7 +15,7 @@ My project aims to benifit users by increasing search engine optimisation and im
 
 To veiw webpage right click on the following hyperlink [ClickHere](https://pip.pypa.io/en/stable/) and select  "Open Link in New Browser" or Open in New Tab" depending on your preferences for veiwing. - Change link.
 
-To Pull the reposity to veiw the code on your PC or Laptop you must have Visual Code installed. Read the following instructions on this link [Link](http://a.com) to download Visual Studio Code to your desktop or device, if you have not already done so.
+To Pull the reposity to veiw the code on your PC or Laptop you must have Visual Code installed. Read the following instructions on this link [Link](https://code.visualstudio.com/download) to download Visual Studio Code to your desktop or device, if you have not already done so.
 
 **Copy and past the following comands into gitbash:**
 
