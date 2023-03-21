@@ -2,13 +2,13 @@
 # Module 1 challenge HTML, CSS and Git refractorting 
 
 This project was designed to show off our skills learned in week one of out bootcamp. The main task described as an on the job ticket to refractor
-an exsisting code for an online Marketing Agency website, aiming to improve their Search Engine Optimisation, their Client Accessability and make their HTML and CSS code overall more efficient.
-My project aims to fix any bugs that inhibit search engine optimisation and improve accessability/functionality.
-This will benifit users in the following ways:
-* Can be found though search engines
-* tool bar and tab features
-* Bookmark feature
-* enhanced accessibility features
+an exsisting code for an online Marketing Agency website.
+My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
+* Can be found though search engines with addition of new "title" in the head section
+* Webpage name is featured in the tab/toolbar in browsers
+* ability utlize the bookmark feature
+* Enhanced accessibility features for SEO by using "reset" and "veiwport" tags in the meta data
+* Use of alt text for images
 * cleaner CSS and HTML code templates
 
 ## Deployment and Installation
@@ -19,44 +19,35 @@ To Pull the reposity to veiw the code on your PC or Laptop you must have Visual 
 
 **Copy and past the following comands into gitbash:**
 
-*create a new directory
-
-*Pull the code from Github
-
-*open Files on Visual Studio Code to veiw and edit HTML and CSS Styling changes
-
-
+*Create a new directory*
 ```bash
-cd bootcamp
+cd [chosen directory]
 Mkdir [directory name]
-cd [directory name]
-git pull [SSH Link from github]
+cd [ new directory name]
 ```
-
+*Pull the code from Github and open to edit/veiw*
+```bash
+git pull git@github.com:Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website.git
+cd Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website
+code .
+```
 ## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
+in the header, example below.
+![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotCLICK.PNG)
+![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotSECTION.PNG)
+By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+to discuss what you would like to change. I have current issues with fitting my "header" image to the screen, your imput and feedback is welcomed.
+![Fix Me](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotHELP.PNG)
 
-Please make sure to update tests as appropriate.
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact Details
+gitHub: https://github.com/Rachael-Stead | Email: Rachael.r.stead@gmail.com | 
