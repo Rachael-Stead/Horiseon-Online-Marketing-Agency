@@ -6,7 +6,7 @@ an exsisting code for an online Marketing Agency website.
 My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
 * Can be found though search engines
 * Webpage name is featured in the tab/toolbar in browsers
-* Bbility utlize the bookmark feature
+* ability utlize the bookmark feature
 * Enhanced accessibility features including for mobile devices
 * Use of alt text for images
 * cleaner CSS and HTML code templates
@@ -19,43 +19,33 @@ To Pull the reposity to veiw the code on your PC or Laptop you must have Visual 
 
 **Copy and past the following comands into gitbash:**
 
-*create a new directory
+*Create a new directory*
 ```bash
 cd [chosen directory]
 Mkdir [directory name]
 cd [ new directory name]
 ```
-*Pull the code from Github and open to edit/veiw
+*Pull the code from Github and open to edit/veiw*
 ```bash
 git pull git@github.com:Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website.git
 cd Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website
 code .
 ```
 ## Usage
+![Links fixed](image.jpg)
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+to discuss what you would like to change. I have current issues with fitting my "header" image to the screen, your imput and feedback is welcomed.
+![Fix Me](snapshotHELP.PNG)
 
-Please make sure to update tests as appropriate.
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact Details
-
+gitHub: https://github.com/Rachael-Stead
+Email: Rachael.r.stead@gmail.com
