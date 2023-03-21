@@ -32,14 +32,17 @@ cd Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client
 code .
 ```
 ## Usage
-![Links fixed](image.jpg)
-
+The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
+in the header, example below.
+![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotCLICK.PNG)
+![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotSECTION.PNG)
+By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change. I have current issues with fitting my "header" image to the screen, your imput and feedback is welcomed.
-![Fix Me](snapshotHELP.PNG)
+![Fix Me](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotHELP.PNG)
 
 
 ## License
@@ -47,5 +50,4 @@ to discuss what you would like to change. I have current issues with fitting my 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact Details
-gitHub: https://github.com/Rachael-Stead
-Email: Rachael.r.stead@gmail.com
+gitHub: https://github.com/Rachael-Stead | Email: Rachael.r.stead@gmail.com | 
