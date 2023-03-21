@@ -6,9 +6,10 @@ an exsisting code for an online Marketing Agency website, aiming to improve thei
 My project aims to fix any bugs that inhibit search engine optimisation and improve accessability/functionality.
 This will benifit users in the following ways:
 * Can be found though search engines
-* tool bar and tab features
-* Bookmark feature
-* enhanced accessibility features
+* Webpage name is featured in the tab/toolbar in browsers
+* Bbility utlize the bookmark feature
+* Enhanced accessibility features including for mobile devices
+* 
 * cleaner CSS and HTML code templates
 
 ## Deployment and Installation
@@ -19,20 +20,20 @@ To Pull the reposity to veiw the code on your PC or Laptop you must have Visual 
 
 **Copy and past the following comands into gitbash:**
 
-*create a new directory
-
-*Pull the code from Github
-
 *open Files on Visual Studio Code to veiw and edit HTML and CSS Styling changes
 
-
+*create a new directory
 ```bash
-cd bootcamp
+cd [chosen directory]
 Mkdir [directory name]
-cd [directory name]
-git pull [SSH Link from github]
+cd [ new directory name]
 ```
-
+*Pull the code from Github and open to edit/veiw
+```bash
+git pull git@github.com:Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website.git
+cd Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website
+code .
+```
 ## Usage
 
 ```python
@@ -60,3 +61,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact Details
+
