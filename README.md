@@ -1,17 +1,17 @@
 # Horiseon Search Engine Optimisation and Accessibility Improvements for client website
 # Module 1 challenge HTML, CSS and Git refractorting 
 
-This project was designed to show off our skills learned in week one of out bootcamp. The main task described as an on the job ticket to refractor
+This project was designed to show off our skills learned in week one of our bootcamp. The main task described as an on the job ticket to refractor
 an exsisting code for an online Marketing Agency website.
 My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
 * Can be found though search engines with addition of new "title" in the head section
 * Webpage name is featured in the tab/toolbar in browsers
 * ability utlize the bookmark feature
-* Enhanced accessibility features for SEO by using "reset" and "veiwport" tags in the meta data
-* Use of alt text for images
+* Enhanced accessibility features for SEO by using "reset.ccs" "veiwport","name" & "description" links in the head tag 
+* Use of alt text for images making it more accessable for those with screen readers
 * cleaner CSS and HTML code templates
 
-## Deployment and Installation
+## Webpage Hyperlink and File Installation
 
 To veiw webpage right click on the following hyperlink [ClickHere](https://pip.pypa.io/en/stable/) and select  "Open Link in New Browser" or Open in New Tab" depending on your preferences for veiwing. - Change link.
 
