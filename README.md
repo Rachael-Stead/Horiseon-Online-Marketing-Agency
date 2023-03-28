@@ -4,10 +4,11 @@
 This project was designed to show off our skills learned in week one of our bootcamp. The main task described as an on the job ticket to refractor
 an exsisting code for an online Marketing Agency website.
 My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
+![seo-addition](./newtitle.PNG)
 * Can be found though search engines with addition of new "title" in the head section
 * Webpage name is featured in the tab/toolbar in browsers
 * ability utlize the bookmark feature
-* Enhanced accessibility features for SEO by using "reset.ccs" "veiwport","name" & "description" links in the head tag 
+* Enhanced accessibility features for SEO by using "veiwport","name" & "description" links in the head tag 
 * Use of alt text for images making it more accessable for those with screen readers
 * cleaner CSS and HTML code templates
 
@@ -34,16 +35,14 @@ code .
 ## Usage
 The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
 in the header, example below.
-![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotCLICK.PNG)
-![Links fixed](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotSECTION.PNG)
+![Links fixed](./snapshotCLICK.PNG)
+![Links fixed](./snapshotSECTION.PNG)
 By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change. I have current issues with fitting my "header" image to the screen, your imput and feedback is welcomed.
-![Fix Me](https://github.com/Rachael-Stead/Horiseon-Search-Engine-Optimization-and-Accessibility-Improvements-for-Client-Website/blob/main/snapshotHELP.PNG)
-
+to discuss what you would like to change.
 
 ## License
 

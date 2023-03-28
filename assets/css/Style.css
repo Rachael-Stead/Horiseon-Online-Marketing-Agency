@@ -1,10 +1,10 @@
-* {
+* { /*pre set css values*/
     box-sizing: border-box;
     padding: 0%;
     margin: 0%;
 }
 
-body {
+body { /*whole webpage background colour*/
     background-color: #d9dcd6;
 }
 
@@ -19,16 +19,16 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.header h1 { /*header headings*/
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .seo { /*separate colour values for header*/
     color: #d9dcd6;
 }
 
-.header div {
+.header div { /*format of consecutive elements in header*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header div ul { /*unorganised lists in header*/
     list-style-type: none;
 }
 
-.header div ul li {
+.header div ul li { /*actual list elements in header*/
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,11 +50,11 @@ a {
     text-decoration: none;
 }
 
-p {
+p {/*paragraph fonts*/
     font-size: 16px;
 }
 
-.hero {
+.hero { /*header img*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -88,7 +88,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead { /*benifit boxes?*/
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -103,7 +103,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h3 { /*benifit headings*/
     margin-bottom: 10px;
     text-align: center;
 }
@@ -118,7 +118,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-lead img { /*benifit imgs*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -137,9 +137,9 @@ p {
 }
 
 /*====================
-    SECTION
+    SECTION/content
 ====================*/
-.content {
+.content { 
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -171,7 +171,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img { /*content imgs*/
     max-height: 200px;
 }
 
@@ -183,12 +183,12 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.search-engine-optimization h2 {  /*content headings*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.online-reputation-management h2 { /**/
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -209,6 +209,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h2 { /*footer heading*/
     font-size: 20px;
 }
