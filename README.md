@@ -3,8 +3,8 @@
 
 This project was designed to show off our skills learned in week one of our bootcamp. The main task described as an on the job ticket to refractor
 an exsisting code for an online Marketing Agency website.
-My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions
-![seo-addition](./newtitle.PNG)
+My project aims to benifit users by increasing search engine optimisation and improve accessability/functionality with the following additions <br>
+![seo-addition](./images/images/newtitle.PNG)<br>
 * Can be found though search engines with addition of new "title" in the head section
 * Webpage name is featured in the tab/toolbar in browsers
 * ability utlize the bookmark feature
@@ -35,8 +35,8 @@ code .
 ## Usage
 The webpage is very simplistic in the way it is designed to be used and navigated, all of the information is accessable on one page by clicking the links displayed
 in the header, example below.
-![Links fixed](./snapshotCLICK.PNG)
-![Links fixed](./snapshotSECTION.PNG)
+![Links fixed](./images/images/snapshotCLICK.PNG)
+![Links fixed](./images/images/snapshotSECTION.PNG)
 By clicking the "search engine optimization" link it takes you to a section of the webpage that is linked to that ID tag.
 
 ## Contributing
